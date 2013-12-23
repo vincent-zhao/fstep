@@ -1,0 +1,19 @@
+{
+  "name": "fstep",
+  "version": "0.0.1",
+  "description": "A node project structure",
+  "keywords": ["node", "structure", "project"],
+  "author": "zzqvincent<zzqvincent@gmail.com>",
+  "repository": { 
+    "type": "git"
+  },
+  "dependencies": {
+    "configer" : "=0.1.0",
+    "mkdirp"   : "=0.3.5"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+    "fstep": "index.js"
+  }
+}
